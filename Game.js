@@ -10,7 +10,7 @@ var LoopChoiceAABB5 = true;// APOLOGIZE / DISTRACT / NOTHING
 var LoopChoiceABB4 = true; // GRAB OBJECT
 var LoopChoiceABD4  = true; // PULL BAR
 var LoopChoiceABDY5 = true; // GO OUT WINDOW
-var LoopChoiceAABBB6 = true; // WICH WAY GO
+var LoopChoiceAABBB6 = true; // WHICH WAY GO
 var LoopChoiceAABAY6 = true; //TALK WALL / BRICK
 
 alert("You wake up in a stange place, you don't remember how you got here.")
