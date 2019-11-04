@@ -336,6 +336,7 @@ else if(ChoiceA2 == "B" || ChoiceA2 == "b")
                             alert("It's a 50 feet drop to the ground")
                             alert("You land on the ground..")
                             alert("But your legs are shattered and you pass out fairly quickly")
+                            LoopChoiceAB3 = false;
                         }
 //#5ABDY
                         else if(ChoiceABDY5 == "N" || ChoiceABDY5 == "n")
